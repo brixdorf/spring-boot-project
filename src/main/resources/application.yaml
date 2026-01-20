@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: Spring Boot E-Commerce Assignment
+server:
+  port: 8080
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/ecommerce
+razorpay:
+  key:
+    id: rzp_live_S65DxvYmcGLxtF
+    secret: acy58eh7ImYhnByx4fi3k5qW
